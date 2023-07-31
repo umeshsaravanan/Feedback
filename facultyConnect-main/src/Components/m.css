@@ -1,0 +1,332 @@
+#k,#k2{
+    color:black;
+    text-decoration: none;
+  }
+  #navb{
+    text-align: center;
+    background-color:rgba(22, 26, 35, 0.426) ;
+  background-repeat: no-repeat;
+  font-family: 'Times New Roman', Times, serif;
+    background-size:cover;
+  }
+  #ip{
+    background-image: url(./images/dv.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #bts{
+    margin: 5vh 6vh;
+    height: 20vh;
+    background-image: url(./images/wimg.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    scale: 1.1;
+  }
+  #b{padding: 11vh 5vh;
+    background-image: url(./images/cx.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+    height: 101.5vh;
+    margin-top:-1.5vh;
+  }
+  #y{
+    color:rgb(252, 255, 00) ;
+  }
+  #ko{
+    color: crimson;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+#head{
+  text-align: center;
+  background-color: rgba(22, 26, 35, 0.686);
+}
+#sub{
+  margin-top: 3vh;
+  margin-bottom: -2vh;
+  font-size:large;
+  background-color: rgb(252, 255, 00);
+  border: none;
+  border-radius: 50px;
+}
+#sub:hover{
+  cursor: pointer;
+  transform: scale(0.96);
+  box-shadow: 8px 8px rgb(100, 100, 100);
+}
+#lg{
+  width: 20vh;
+  background-color: white;
+  margin-top: -10vh;
+  border-radius: 50%;
+  margin-top: -15px;
+}
+#adhead{
+  text-align: center;
+  background-color: rgba(22, 26, 35);
+}
+#back{
+  background-image: url(./images/bgimg.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  padding-bottom: 9vh;
+}
+#box{
+  scale: 0.9;
+width: 70vh;
+margin-left: auto;
+margin-right: auto;
+padding: 10vh;
+border-radius: 50px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 10vh;
+background-color: rgba(22, 26, 35, 0.686);
+}
+#ln{
+  color: white;
+}
+input{
+  margin: 10px;
+  height: 8vh;
+  font-size: large;
+  width: 35vh;
+}
+  button{
+    padding: 3vh;
+    width: 35vh;
+    margin-top: 15vh;
+    margin: 15vh 5vh;
+    border:none;
+    border-radius: 50px;
+    transition: transform 0.2s;
+    
+  }
+  button:hover{
+    cursor: pointer;
+    transform: scale(0.96);
+    box-shadow: 8px 8px rgb(0, 0, 0);
+  }
+  button:active{
+    background-color: rgb(0, 255, 0);
+    border-color: rgb(252, 255, 00);
+  }
+  #adimg{
+    width: 23vh;
+    height: 23vh;
+    padding: 0%;
+    margin-left: -25px;
+    
+  }
+  .msg{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+    margin-top: 5vh;
+    margin-bottom: -5vh;
+  }
+  #stdimg{
+    width: 23vh;
+    
+    height: 23vh;
+    padding: 0%;
+    margin-left: 10px;
+  }
+  h1{
+    margin-top: 0px;
+    padding: 20px;
+    color: white;
+    background-color: rgb(0, 195, 255);
+  }
+  
+  #main{
+    text-align: center;
+    height: 100vh;
+    background-image: url(./images/bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #add{
+    width: 25vh;
+  }
+  #n{
+    background-color: aqua;
+    text-align: center;
+  }
+  #ad{
+    margin:5vh ;
+  }
+#j{
+ margin: 0px;
+  padding: 0vh;
+  width:10vh;
+  height: 5vh;
+  font-size: small;
+  border-radius: 10px;
+}
+
+#sa{
+  margin-bottom: 5vh;
+}
+#adbt{
+  scale: 0.8;
+  margin: 5vh;
+}
+#nl{
+  text-align: center;
+
+  
+  display: block;
+}
+#adbody{
+background-image: url(./images/aimg.jpg);
+background-repeat: no-repeat;
+  background-size: cover;
+width: 100vw;
+height: 88.4vh;
+display: flex;
+justify-content: center;
+margin-top: -10px;
+}
+h2{
+  font-weight: bold;
+  color: rgb(0, 0, 255);
+  font-family: cursive;
+}
+#as{
+  height: 35vh;
+  width: 35vh;
+  background-image: url(./images/w1img.jpg);
+background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50px;
+}
+#et{
+  margin-bottom: 50vh;
+  position: absolute;
+  border-radius: 50px;
+  background-color: rgb(255, 59, 20);
+  top: 60vh;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+  color: white;
+ 
+}
+#nb{
+  width: 35vw;
+  background-image: url(./images/cx.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  margin: auto;
+  scale: 1.2;
+  padding: 50px;
+  border-radius: 50px;
+}
+option{
+  font-family: cursive;
+  font-size:large;
+}
+#ob{
+  background-image: url(./images/aimg.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  padding: 22.25vh;
+}
+#sin{
+  background-image: url(./images/bimg.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  font-family: cursive;
+  font-weight: bold;
+}
+#laadd{
+  color: white;
+}
+#bcx{
+  margin: auto 20%;
+}
+#xz{
+  font-weight: bold;
+  font-family: cursive;
+  background-image: url(./images/cx.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  width: 50vh;
+  padding: 50px;
+  text-align: center;
+  margin:  auto;
+  scale:1.2;
+  border-radius: 50px;
+}
+#dcb{
+font-family: cursive;
+margin: 0%;
+color: white;
+background-color:  rgb(255, 97, 97);
+margin-top: 10vh;
+}
+#aselect{
+margin: 3vh;
+scale:2;
+margin-top: 5vh;
+}
+#aq{
+  scale: 1.3;
+  color: white;
+}
+.popup-container {
+  position: fixed;
+  top: 40%;
+  background-image: url(./images/bimg.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+  left: 35%;
+  font-family: 'Times New Roman', Times, serif;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  scale: 0.8;
+  height: 450px;
+  border-radius: 10px;
+  padding: 50px;
+}
+#xaqq{
+  color: crimson;
+  font-family: 'Times New Roman', Times, serif;
+}
+#d{
+  text-align: center;
+  margin: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#azz{
+  margin: -25px 30%;
+  background-color: rgb(34, 255, 0);
+}
+#mbut{
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bolder;
+  background-image: url(./images/bimg.jpg);
+  background-repeat: no-repeat;
+    background-size: cover;
+}
+#mhead{
+  background-color: rgba(22, 26, 35, 0.686);
+  font-family:'Times New Roman', Times, serif;
+}
+#t{
+  scale: 0.8;
+  margin-top: -35px;
+  margin-left: -80px;
+  font-family: 'Times New Roman', Times, serif;
+}
+#qq{
+  background-color: yellow;
+  color: black;
+}

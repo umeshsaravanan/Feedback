@@ -1,0 +1,38 @@
+.rating-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .rating-question {
+    margin-bottom: 20px;
+  }
+  
+  .rating-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .star-rating {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+  }
+  
+  .star-label {
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .star-label input[type="radio"] {
+    display: none;
+  }
+  
+  .star-label .checked-star {
+    position: absolute;
+    top: 0;
+
+  }
